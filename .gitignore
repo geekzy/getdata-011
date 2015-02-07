@@ -1,0 +1,6 @@
+specdata/
+.Rapp.history
+.RData
+.Rhistory
+*.csv
+*.pdf
